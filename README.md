@@ -1,4 +1,4 @@
-# Technical Scope Document: Autodesk Fusion Addin - Insert into Fixture Framework
+# Insert into Fixture Framework
 
 ## Functionality Overview:
 
